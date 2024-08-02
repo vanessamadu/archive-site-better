@@ -5,6 +5,7 @@ order: 2
 title: Science Communication
 toc: true
 comments: false
+pinned: true
 ---
 
 Science is my Wonderland [^alice] and Mathematics makes it tick
