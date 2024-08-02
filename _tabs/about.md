@@ -14,7 +14,7 @@ As an oceanographically-enabled mathematical statistician, I get to learn lots o
 
 I talk about whatever I find most interesting at the time, but for an indication:
 
-![Desktop View](/assets/img/Vanessa-FameLab_photo(1).jpeg){: width="297.15" height="308.85" }{: .right}
+!(/assets/img/Vanessa-FameLab_photo(1).jpeg){: width="297.15" height="308.85" }{: .right}
 * My PhD 
 * Recreational Mathematics
 * Random science (however you choose to interpret that has a non-zero probability of being the right way.)
@@ -30,7 +30,7 @@ I talk about whatever I find most interesting at the time, but for an indication
 
 # The Official Bio
 
-Vanessa Madu is a PhD student on the EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial College London and Oxford University.  She is an "Oceanographically-enabled Mathematical Statistician" ![Desktop View](/assets/img/Vanessa-Madu.jpg){: width="247.35" height="309.2" }{: .left} who is interested in statistical machine-learning methods for predicting ocean surface currents. She is also interested in ocean uncertainty quantification.
+Vanessa Madu is a PhD student on the EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial College London and Oxford University.  She is an "Oceanographically-enabled Mathematical Statistician" !(/assets/img/Vanessa-Madu.jpg){: width="247.35" height="309.2" }{: .left} who is interested in statistical machine-learning methods for predicting ocean surface currents. She is also interested in ocean uncertainty quantification.
 
 
 
