@@ -3,22 +3,17 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 lang: en
-
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
-title: Chirpy # the main title
-
-tagline: A text-focused Jekyll theme # it will display as the sub-title
-
+title: Vanessa Madu # the main title
+tagline: The oceanographically-enabled mathematical statistician # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Vanessa Madu is a Science Communicator and a PhD student on the EPSRC CDT in Modern Statistics and 
+  Statistical Machine Learning at Imperial College London. This site is where she keeps the subset of her stuff that she doesn't mind you seeing. 
 
 # Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://vanessamadu.github.io"
 
 github:
