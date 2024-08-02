@@ -1,9 +1,8 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
-
 
 I find a lot of things in life very exciting and I like to share my excitement with others. 
 
